@@ -2,12 +2,11 @@
 
 ## Description
 
-That's repository is test.
+That's repository is example.
 
 ## Tree
 
 ```
-/
 |_readme.md
 |_style.css
 |_file_a.html
